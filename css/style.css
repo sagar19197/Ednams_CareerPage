@@ -20,6 +20,6 @@
 	font-family: 'Knewave', cursive;
 	font-size:20px
 }
-.card {
-  transition: transform 0.2s ease;
+.card:hover{
+  transform: scale(1.1);
 }
