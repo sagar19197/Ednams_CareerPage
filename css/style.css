@@ -1,0 +1,25 @@
+#main-head{
+	height:calc(60vh);
+	background-image:url('wall.jpg');
+	background-size:100% 100%;
+	background-color:black;
+	
+}
+.page-section{
+	padding:6rem 0;
+}
+
+.section-heading{
+	font-weight:bold;
+	margin-bottom:1rem;
+}
+.section-subheading{
+	margin-bottom:4rem;
+}
+.Ednam_logo{
+	font-family: 'Knewave', cursive;
+	font-size:20px
+}
+.card {
+  transition: transform 0.2s ease;
+}
